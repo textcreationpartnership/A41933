@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great nevvs from the King of Poland: or An intercepted letter from Tony, the first King of Poland, to the Reverend Salamanca Doctor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41933</idno>
+            <idno type="STC">Wing G1735C</idno>
+            <idno type="STC">ESTC R216271</idno>
+            <idno type="EEBO-CITATION">99828009</idno>
+            <idno type="PROQUEST">99828009</idno>
+            <idno type="VID">32436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1925:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great nevvs from the King of Poland: or An intercepted letter from Tony, the first King of Poland, to the Reverend Salamanca Doctor</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of text: Poland October 27. 1682.</note>
+                  <note>Satirical letter on the nature of courtiers, with references to the Popish Plot.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts and courtiers --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:32436:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM The King OF POLAND: OR An Intercepted Letter from <hi>TONY,</hi> the firſt King of <hi>POLAND,</hi> to the Reverend <hi>Salamanca</hi> Doctor.</head>
+            <opener>
+               <dateline>
+                  <hi>Poland</hi> 
+                  <date>October 27. 1682.</date>
+               </dateline>
+               <salute>Reverend Doctor,</salute>
+            </opener>
+            <p>SINCE your firſt diſcovery of your Horrid, <hi>Phanatical,</hi> Damnable, <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> Plot, I have not been ſenſible of ſo much Grief, as at preſent lyes upon my diſturbed and diſcompoſed Spirits, not only in regard that I am deprived of the happineſs of your <hi>Perſon,</hi> which ever afforded much aſſiſtance to me in all exigences; the appearance of thoſe wor<g ref="char:EOLhyphen"/>thy <hi>Patriots,</hi> which I fear I ſhall never ſee, ſo happily met, again, but alſo of thoſe my beloved <hi>Aſſociating-Friends</hi> with whom you Know, we uſed to <hi>Cabal</hi> it from Tavern to Tavern: But however though I am at preſent deprived of that happineſs, yet I wait with Patience, knowing that it is not impoſſible but the Stars may have the ſame Revolutions in 82 as they had in 41. And in the In<g ref="char:EOLhyphen"/>terim, ſhall beg your Correſpondence, which, I know, you would eaſily afford me, did you imagine how I ſimpathize with you in ſorrow for the diſcovery of our well <hi>begun-Aſſociating-Intrigue;</hi> But to uſe the expreſſion of our <hi>Proto-Martyr Colledge</hi> (Pardon me, now I remember my ſelf, it was of that <hi>Arch-Traytor Coleman</hi>) <hi>there is no truſt in man,</hi> eſpecially in thoſe <hi>Zealous Lewis</hi>'s, and thoſe <hi>Tory Iriſh Blades:</hi> Yet pardon me, if you imagine, that I ſhould herein reflect upon you (whom I have ever found a faſt and Elbow-Friend) for 'tis only thoſe before mentioned, whoſe mouths I thought I had <hi>ſowed up:</hi> And as a mark of my thankfulneſs to you herein, I now return you my thanks for it, and if I can pleaſure you by way of <hi>Chapplin</hi> (though I hope our late large <hi>Contributions</hi> are not yet all ſpent) give me notice and I ſhall not be unmindful: And ſince I have more reaſon and am more able to diſcribe an <hi>upſtart Courtier</hi> (as being, you know, a Relation of mine) I have therefore taken that Trouble upon me; firſt in regard I had nothing elſe in my thoughts to ſend you; Secondly that you might know him, and conſequently avoid him, which (deſiring you would communicate it to my Deareſt Friends) take as follows, <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>A True Character of an Upſtart Courtier.</head>
+               <p>HE is a perſon whoſe <hi>Senſe,</hi> moſt commonly, conſiſts in <hi>Seent;</hi> whoſe <hi>actions</hi> and <hi>Geſtures,</hi> are nothing but <hi>Cringes;</hi> whoſe <hi>Breath</hi> is an <hi>Airy Complement;</hi> and whoſe <hi>Rind</hi> (like that of the <hi>Cinnamon-Tree</hi>) is worth all his Body beſides: The height of his <hi>Ambition,</hi> is to receive <hi>Inſtructions</hi> from <hi>Coranto's</hi> and <hi>Play-Bills;</hi>
+                  <pb facs="tcp:32436:2"/>theſe Notions muſt regulate the whole Courſe of his Living. He never knew what Credit or Reputation meant, further than Running on Score: His <hi>Tongue</hi> is <hi>Gentleman-<g ref="char:V">Ʋ</g>ſher</hi> to his Wit, and ever goes before it: He preſſeth into the higheſt Places, thruſts himſelf upon the greateſt Buſineſſes, but ever falls off with ſome palpable diſgrace to himſelf. He is wonderful Exceptious and Cholerick, where he ſees men are loth to give him an occaſion, yet you cannot pacifie him better than by Quarrelling with him: He uſeth the fine <hi>Rhetorick</hi> of Cloths to gain eſteem, for they are both his <hi>Imprimis</hi> and his <hi>Item:</hi> His whole Body goes upon <hi>Screws,</hi> and his Face is the <hi>Vice</hi> that moves them; his Skin is <hi>Tann'd</hi> in <hi>Civit,</hi> and all his Behaviours are Printed: The chief burden of his Brain is the Carriage of his Body, and the ſetting of his Face in good Frame, which he performs the better, becauſe he is not <hi>Disjoynted</hi> with other Meditations: <hi>Aſſociates</hi> he has from all Quarters and of all Qualities too, ſave good: He is but the Sign of a Man, for he is made of nothing but <hi>Antick Cloths</hi> and <hi>Cringes.</hi> He is a <hi>Muſhroom-Gentleman</hi> that <hi>ſhoots</hi> up in a Night to Honour and Preferment. In the ſpeculation of his good Parts, his Eys, like a <hi>Drunkard,</hi> ſees all double; and his Fancy like an <hi>Old Mans Spectacles,</hi> makes a great Letter in a ſmall Print: He is one that <hi>weighs</hi> his <hi>Breath</hi> between his <hi>Teeth,</hi> and dares not ſmile beyond a Point for fear he ſhould <hi>unſtarch his Look:</hi> He had rather the whole Kingdom ſhould be troubled than an Hair out of order about him: He is ever in the ſlavery of <hi>Ceremony</hi> and <hi>Complements,</hi> for he <hi>varies his Face</hi> as Seamen do their <hi>Compas.</hi> If it be true that the <hi>Gyants</hi> e're made War with Heaven he had been a fit <hi>Enſign-bearer</hi> to that Company, whoſe thoughts fly a pitch above <hi>ambition.</hi> Every hot <hi>fancy</hi> and <hi>paſſion</hi> is the Signal that ſets him Forward, and his reaſon ever comes in the Rear. All forreign Vices are Naturalized to him, for he makes them all his own by Imitation: He is the very <hi>ſum</hi> and <hi>abſtract</hi> of <hi>Lechery,</hi> and (without the aſſiſtance of a <hi>well-made Tap</hi>) certainly expires in <hi>Cupids Flames:</hi> He is perſwaded that it is as Impoſſeble to find a Chaſt Man, as it is to throw a Drop of Water into the Sea, and take it thence <hi>unmingled,</hi> ſince he is ſo bad himſelf, as to make no ſcruple to Court any thing that carries <hi>the Face of a She:</hi> All his behaviours are ſo rediculous that they are enough to make <hi>Heraclitus</hi> (were he in being) burſt into a Laughter to behold them: As to his Extraction he is Son to <hi>Cryſalaus, who (as the Poets tell us) being invited to the Wedding of Jupiter and Juno, went thither bravely attended, rarely accoutred, Rich</hi> in <hi>Golden Attires and Gay Robes, but otherwiſe an Aſs, the Gods ſeeing him come</hi> in ſuch State and Pomp, roſe up to give him Place; <hi>Ex<g ref="char:EOLhyphen"/>habitu hominem metientes,</hi> but <hi>Jupiter</hi> knowing what he was, Immediately turn'd him into a <hi>Butter-Fly:</hi> Murders to him are but <hi>reſolute Acts,</hi> and <hi>Dammes,</hi> matters of <hi>ſmall Conſequence:</hi> All his Words are ſteep'd in <hi>Oyl,</hi> for he ever com<g ref="char:EOLhyphen"/>mends to you, firſt what he knows you like, and hath always ſome abſurd Hiſtory of your Enemy, and then wonders how your two Opinions ſhould ſo Jump to<g ref="char:EOLhyphen"/>gether in one Man: He is an unneceſſary Letter in the <hi>Alphabet of Creatures,</hi> and the <hi>Cypher in Natures Arithmetick,</hi> and in the Accounts of all good Men: By this time he may be grown ſo <hi>Notorious for private, though Damnable, Aſſociations</hi> and cunning Inſinuations (by the help of a little of your <hi>Salamanca Divinity</hi>) that he muſt either Fly his Country or ſubmit to the Ax or Halter.</p>
+               <p>To Conclude, he is a <hi>Glorious Fool,</hi> his greateſt Pride conſiſting in the <hi>Ratling of his Silks, a Gawdy nothing,</hi> having a <hi>Pedlers Pack,</hi> and a <hi>Brokers-Shop</hi> about him, and as his Life has been Odious to All, ſo his End is commiſerated by Few. Thus with my Dear Reſpects to all my <hi>Quondam-Aſſociating-Friends,</hi> either at <hi>Ruſſels-Ordinary,</hi> or at the <hi>Exchange-Sun-Tavern.</hi> I Reſt,</p>
+            </div>
+            <closer>
+               <signed>Your much obliged Friend. <hi>TONY</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. G.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
